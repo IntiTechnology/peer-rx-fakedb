@@ -1,0 +1,21 @@
+[
+    {
+        "name":"Stephen Ron",
+        "email":"stephenron@gmail.com",
+        "peerType":"Mental",
+        "gender":"Male"
+    },
+    {
+        "name":"Caroline ross",
+        "email":"cross@gmail.com",
+        "peerType":"Mental",
+        "gender":"Female"
+    },
+    {
+        "name":"Adam Mcdonald",
+        "email":"adammc@hotmail.com",
+        "peerType":"Mental",
+        "gender":"Male"
+    }
+
+]
