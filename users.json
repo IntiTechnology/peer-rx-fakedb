@@ -1,19 +1,19 @@
 [
     {
         "email":"admin@peerrx.com",
-        "password":"adminPeer",
+        "password":"adminPeer@",
         "role":"admin",
         "token":"adminToken"
     },
     {
         "email":"location@peerrx.com",
-        "password":"locationPeer",
+        "password":"locationPeer@",
         "role":"location",
         "token":"locationToken"
     },
     {
         "email":"agency@peerrx.com",
-        "password":"agencyPeer",
+        "password":"agencyPeer@",
         "role":"agency",
         "token":"agencyToken"
     }
